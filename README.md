@@ -28,10 +28,14 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
+![10-object-oriented-programming-homework-demo](https://user-images.githubusercontent.com/89751266/147865081-27d0f27c-add8-456a-8fe5-5678c2fc5852.png)
 
 ## Screenshot
+![Screenshot (18)](https://user-images.githubusercontent.com/89751266/147865092-fa3d68b7-dfe0-4b46-86d0-fb2e7e42bfba.png)
 
 ## Demo
+https://watch.screencastify.com/v/EiVsKIWIfVbSk36IfB3m
+
 
 ## Installation
 Download it through Github
